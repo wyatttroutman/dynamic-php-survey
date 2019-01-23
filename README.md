@@ -5,9 +5,9 @@ Framework to build a dynamic PHP web user study to administer Amazon MTurk surve
 This project was developed to administer an Amazon Mechanical Turk User Study. All material relevant to that study has been removed. The remaining files represent a proof-of-concept framework for administering a dynamically generated PHP user study with support for custom PHP modules. Please note that this project is not meant to be used, and it will not be updated. It is only listed to show one possible way to build a dynamic PHP website with the limitation of not using an MVC framework. That being said, it could be fully functional with some minor updates and refinement.
 
 # Requirements
-• Web Server with active LAMP Stack
-• PHP
-• Database Server with active MySQL installation
+   • Web Server with active LAMP Stack
+   • PHP
+   • Database Server with active MySQL installation
 
 # Installation
 1. Clone the github repository to an appropriate, offline folder.
